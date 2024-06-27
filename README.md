@@ -21,4 +21,4 @@ management in collaborative workspaces. Each feature is carefully designed to en
 experience, and collaboration.
 
 ## Screenshot
-"C:\Users\USER\Pictures\Screenshots\Screenshot 2024-06-27 124917.png"
+![Screenshot 2024-06-27 124917](https://github.com/Heisenberg293/WorksLink0/assets/148477986/3dd82421-eae0-48d7-98a2-6b3cd433af42)
