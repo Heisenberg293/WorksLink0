@@ -19,3 +19,6 @@ List of Features:
 These features collectively contribute to the project's goal of providing a dynamic and user-centric platform for project
 management in collaborative workspaces. Each feature is carefully designed to enhance the platform's functionality, user
 experience, and collaboration.
+
+## Screenshot
+"C:\Users\USER\Pictures\Screenshots\Screenshot 2024-06-27 124917.png"
